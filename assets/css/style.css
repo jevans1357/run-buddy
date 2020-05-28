@@ -293,6 +293,24 @@ body {
   }
 /* TRAINER SECTION END */
 
+/* Subscription Grid */
+
+.service-grid-container {
+  display: grid;
+}
+
+.service-grid-item {
+  width: 200px;
+  height: 50px;
+  background-color: orange;
+  border: solid;
+  color: black;
+}
+
+/* Subscription Grid End */
+
+
+
 /* REACH OUT SECTION BEGIN */
 
 .contact {
